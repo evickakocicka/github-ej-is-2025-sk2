@@ -34,4 +34,5 @@
 #pragma warning restore CS8600 // Converting null literal or possible null value to non-nullable type.
         }
     }
+    // Úprava pro propojení s issue #4
 }
