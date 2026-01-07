@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\aaa\\IS_2025_Sk2\\github-ej-is-2025-sk2\\program015a-Konzolova-hra\\program015a-Konzolova-hra.csproj",
+      "projectUniqueName": "C:\\aaa\\IS_2025_Sk2\\github-ej-is-2025-sk2\\IS-Programy\\program015a-Konzolova-hra\\program015a-Konzolova-hra.csproj",
       "projectName": "program015a-Konzolova-hra",
-      "projectPath": "C:\\aaa\\IS_2025_Sk2\\github-ej-is-2025-sk2\\program015a-Konzolova-hra\\program015a-Konzolova-hra.csproj",
+      "projectPath": "C:\\aaa\\IS_2025_Sk2\\github-ej-is-2025-sk2\\IS-Programy\\program015a-Konzolova-hra\\program015a-Konzolova-hra.csproj",
       "packagesPath": "C:\\Users\\evaje\\.nuget\\packages\\",
-      "outputPath": "C:\\aaa\\IS_2025_Sk2\\github-ej-is-2025-sk2\\program015a-Konzolova-hra\\obj\\",
+      "outputPath": "C:\\aaa\\IS_2025_Sk2\\github-ej-is-2025-sk2\\IS-Programy\\program015a-Konzolova-hra\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\evaje\\AppData\\Roaming\\NuGet\\NuGet.Config"
